@@ -96,14 +96,14 @@ ChatGPT在许多领域都有广泛的应用。以下是常见的使用场景：
 1. [openai](https://openai.com/)
 2. [falcons](https://falcons.ai/)
 
-### 使用国内代理直接访问
+### 免费使用国内代理直接访问
 1. [智届](https://wisespace.xyz)
 2. [拓云智能](https://console.tuoyunai.com/console/aitools#/talk)
 3. [bing](https://www.bings.com/search?q=Bing+AI&showconv=1&FORM=hpcodx)
 
 
 
-![https://ais.tuoyunai.com/](https://t12.baidu.com/it/u=1222763947,201658668&fm=30&app=106&f=JPEG?w=640&h=426&s=9211A16C1B34B9DE4472869103009089)
+![https://ais.tuoyunai.com/](https://github.com/private-elves/AISpace/blob/main/docs/images/tuoyunai.png?raw=true)
 
 | 优秀网站 | 类型 | 网址 |
 | --- | --- | --- |
