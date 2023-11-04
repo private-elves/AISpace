@@ -1,3 +1,4 @@
+![AI时代，致敬美好!](https://github.com/private-elves/AISpace/blob/main/docs/images/241893e01839bb5925c5dce8c92039c2.png?raw=true)
 
 # ChatGPT 周年回顾
 
@@ -37,8 +38,8 @@ ChatGPT已经吸引了广泛的用户群体。从学生到研究人员，从工�
 
 
 ChatGPT在许多领域都有广泛的应用。以下是常见的使用场景：
-1. **智能搜索**:ChatGPT摒弃传统搜索翻页查找的麻烦，直接给出答案。我们再也不用看那无穷无尽的广告了。
-2. **虚拟助手**：ChatGPT可以作为虚拟助手，帮助用户管理日程安排、提供建议和执行任务。
+1. **智能搜索**: ChatGPT摒弃传统搜索翻页查找的麻烦，直接给出答案。我们再也不用看那无穷无尽的广告了。[链接](https://wisespace.xyz)
+2. **虚拟助手**：ChatGPT可以作为虚拟助手，帮助用户管理日程安排、提供建议和执行任务。[链接](https://console.tuoyunai.com)
 3. **语言翻译**：ChatGPT可以用于实时语言翻译，帮助人们进行跨语言交流。
 4. **语法和拼写检查**：ChatGPT可以帮助用户检查语法和拼写错误，并提供纠正建议。
 5. **内容生成**：ChatGPT可以用于生成文章、博客帖子、新闻报道等内容，节省时间和精力。
@@ -92,7 +93,21 @@ ChatGPT在许多领域都有广泛的应用。以下是常见的使用场景：
 
 # 如何使用ChatGPT ？
 ### 翻墙访问OpenAI的官方网站，绑定海外信用卡支付享受plus会员服务，20$/月
+1. [openai](https://openai.com/)
+2. [falcons](https://falcons.ai/)
+
 ### 使用国内代理直接访问
 1. [智届](https://wisespace.xyz)
 2. [拓云智能](https://console.tuoyunai.com/console/aitools#/talk)
 3. [bing](https://www.bings.com/search?q=Bing+AI&showconv=1&FORM=hpcodx)
+
+
+
+![https://ais.tuoyunai.com/](https://t12.baidu.com/it/u=1222763947,201658668&fm=30&app=106&f=JPEG?w=640&h=426&s=9211A16C1B34B9DE4472869103009089)
+
+| 优秀网站 | 类型 | 网址 |
+| --- | --- | --- |
+| [智届](https://wisespace.xyz) | 智能搜索 | https://wisespace.xyz |
+| [拓云智能](https://console.tuoyunai.com/console/aitools#/talk) | chatGPT | https://console.tuoyunai.com/console/aitools#/talk |
+| [bing](https://www.bings.com/search?q=Bing+AI&showconv=1&FORM=hpcodx) | 智能搜索 | https://www.bings.com/search?q=Bing+AI&showconv=1&FORM=hpcodx |
+
